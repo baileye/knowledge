@@ -26,3 +26,7 @@ The structure of each of the posts will often look roughly like this:
 6. Links - Links related to the topic.
 
 If you are interested in how I maintain and write this wiki, I wrote about it in detail [here](../other/wiki-workflow.md).
+
+## Attribution
+
+Heavily inspired by this wiki: https://github.com/nikitavoloboev/knowledge, super awesome work and a great starting point for my own workflow.
