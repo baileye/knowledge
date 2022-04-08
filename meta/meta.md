@@ -10,7 +10,7 @@ I will be updating this wiki quite often as I use it myself daily both to keep a
 
 If you find a mistake, especially if something that I say is plain wrong, please fork [this repository](https://github.com/baileye/knowledge) and make a PR with correct changes. Or [open an issue](https://github.com/baileye/knowledge/issues/new) saying what you think is wrong.
 
-Aside from GitBook search above, you can also use GitHub [file](https://github.com/baileye/knowledge/find/main) & [text](https://github.com/baileye/knowledge/search?q=karabiner&unscoped_q=karabiner) searches.
+Aside from GitBook search above, you can also use GitHub [file](https://github.com/baileye/knowledge/find/main) & [text](https://github.com/baileye/knowledge/search?q=azure&unscoped_q=azure) searches.
 
 ## Content Structure
 
