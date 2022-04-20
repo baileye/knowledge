@@ -26,6 +26,16 @@ The [WSL Docs](https://docs.microsoft.com/en-us/windows/wsl/about) will contain 
     - `tfenv install 1.1.8`
     - `tfenv use 1.1.8`
 
+## Notify-Send replacement
+
+notify-send is a little tool to send a notification from your terminal. Stuart Leeks has written a 
+[tool](https://github.com/stuartleeks/wsl-notify-send) to get this working in WSL2 and sending a 
+notification to the Windows Toast notification.
+
+Handy for long-running processes, when I want to know if they're finished, e.g.:
+
+`terraform apply --auto-approve; notify-send "Terraform apply complete"`
+
 ## Links
 
  - [WSL Docs](https://docs.microsoft.com/en-us/windows/wsl/about)
