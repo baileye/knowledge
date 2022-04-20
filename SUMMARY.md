@@ -10,3 +10,5 @@
 - [Git](git/git.md)
   - [GitHub](git/github.md)
 - [Sociology](sociology/haidt.md)
+- [Bugs](bugs)
+  - [WSL2](bugs/wsl2.md)
