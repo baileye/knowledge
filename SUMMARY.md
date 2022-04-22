@@ -11,6 +11,7 @@
   - [GitHub](git/github.md)
 - [Recipes](recipes)
   - [Buttermilk Waffles](recipes/buttermilk_waffles.md)
+  - [Chocolate Fudge Cake](recipes/chocolate_fudge_cake.md)
 - [Sociology](sociology/haidt.md)
 - [Bugs](bugs)
   - [WSL2](bugs/wsl2.md)
