@@ -9,6 +9,8 @@
   - [WSL(2)](windows/wsl2.md)
 - [Git](git/git.md)
   - [GitHub](git/github.md)
+- [Recipes](recipes)
+  - [Buttermilk Waffles](recipes/buttermilk_waffles.md)
 - [Sociology](sociology/haidt.md)
 - [Bugs](bugs)
   - [WSL2](bugs/wsl2.md)
