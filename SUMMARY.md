@@ -16,5 +16,5 @@
 - [Sociology](sociology/haidt.md)
 - [Bugs](bugs)
   - [WSL2](bugs/wsl2.md)
-- [Crpto](crypto)
+- [Crypto](crypto)
   - [Flash Loans](crypto/flash_loans.md)
